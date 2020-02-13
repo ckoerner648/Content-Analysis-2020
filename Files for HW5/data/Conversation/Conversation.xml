@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT from="my_dataset">
+<Participants>
+<participant id="Redman" name="Redman" role="Adult" language="eng"/>
+<participant id="Lichtenstein" name="Lichtenstein" role="Adult" language="eng"/>
+<participant id="Araujo" name="Araujo" role="Adult" language="eng"/>
+<participant id="Ho" name="Ho" role="Adult" language="eng"/>
+<participant id="Conn" name="Conn" role="Adult" language="eng"/>
+<participant id="Conklin" name="Conklin" role="Adult" language="eng"/>
+<participant id="Kirshenblatt-Gimblett" name="Kirshenblatt-Gimblett" role="Adult" language="eng"/>
+</Participants>
+
+<u who="Lichtenstein" uID="#2">
+<w>['I', 'want', 'to', 'begin', 'this', 'year', '’s', 'conversation', 'with', 'a', 'discussion', 'of', 'the', 'contemporary', 'politics', 'of', 'collecting', 'and', 'display']</w>
+<w>['Like', 'many', 'institutions', 'today', 'the', 'university', 'the', 'curriculum', 'indeed', 'this', 'very', 'journal', 'the', 'museum', 'faces', 'pressure', 'to', 'decolonize', 'its', 'cultural', 'practices', 'and', 'national']</w>
+<media start="0" end="161" unit="s"/>
+</u>
+
+<u who="Redman" uID="#1">
+<w>['These', 'are', 'critical', 'questions', 'for', 'museums', 'today']</w>
+<w>['As', 'a', 'historian', 'interested', 'in', 'the', 'history', 'of', 'museums', 'and', 'a', 'former', 'museum', 'professional', 'I', 'have', 'seen', 'these', 'matters', 'play', 'out', 'in', 'several', 'different', 'contexts']</w>
+<w>['Museum', 'history', 'as', 'the', 'question', 'suggests', 'is', 'intimately', 'bound', 'up', 'with']</w>
+<media start="162" end="1033" unit="s"/>
+</u>
+
+<u who="Ho" uID="#4">
+<w>['The', 'question', 'What', 'would', 'a', 'decolonized', 'museum', 'look', 'like', 'was', 'present', 'at', 'the', 'birth', 'of', 'China', '’s', 'first', 'native', 'museum', 'in', '1905']</w>
+<w>['In', 'the', 'nineteenth', 'century', 'the', 'only', 'museums', 'in', 'China', 'were', 'institutions', 'located', 'in', 'the', 'foreign', 'concessions', 'of', 'Shanghai', 'and', 'early', 'museum', 'boosters', 'were']</w>
+<media start="1034" end="2216" unit="s"/>
+</u>
+
+<u who="Conklin" uID="#6">
+<w>['In', 'our', 'answers', 'so', 'far']</w>
+<w>['to', 'the', 'question']</w>
+<w>['What', 'would', 'a', 'decolonized', 'museum', 'look', 'like']</w>
+<w>['a', 'wide', 'variety', 'of', 'institutions', 'have', 'been', 'evoked', 'history', 'museums', 'art', 'museums', 'natural', 'history', 'museums', 'and', 'ethnographic', 'museums', 'and', 'there', 'are', 'surely', 'others']</w>
+<w>['If', 'we', 'add', 'different', 'national']</w>
+<media start="2217" end="2915" unit="s"/>
+</u>
+
+<u who="Conn" uID="#5">
+<w>['I', 'think', 'we', 'need', 'to', 'start', 'with', 'some', 'definitions', 'and', 'some', 'categories', 'a', 'few', 'caveats', 'and', 'qualifications']</w>
+<w>['The', 'Institute', 'of', 'Museum', 'and', 'Library', 'Services', 'counted', 'more', 'than', '35,000', 'active', 'museums', 'in', 'the', 'United', 'States.10']</w>
+<w>['And', 'that', 'was', 'in', '2014']</w>
+<w>['Those', 'museums', 'range', 'across', 'all', 'kinds', 'of']</w>
+<media start="2916" end="3704" unit="s"/>
+</u>
+
+<u who="Lichtenstein" uID="#2">
+<w>['Let', 'me', 'follow', 'up', 'by', 'building', 'on', 'Steven', 'Conn', '’s', 'contrarian', 'response', 'to', 'my', 'first', 'question']</w>
+<w>['As', 'he', 'implies', 'first', 'and', 'foremost', 'museums', 'display', 'objects', 'to', 'the', 'public', 'and', 'academic', 'discussions', 'of', 'display', 'ignore', 'this', 'public', 'at', 'our', 'peril']</w>
+<w>['What', 'makes', 'the', 'Museum', 'of', 'African', 'American', 'History', 'and']</w>
+<media start="3705" end="3910" unit="s"/>
+</u>
+
+<u who="Ho" uID="#4">
+<w>['The', 'issues', 'of', 'the', 'object', 'versus']</w>
+<w>['the', 'narrative', 'the', 'making', 'of', 'the', 'narrative', 'and', 'for', 'whom', 'and', 'the', 'curatorial', 'tension', 'between', 'historical', 'content', 'and', 'contemporary', 'audience', 'are', 'critical', 'considerations', 'both', 'for', 'museums', 'and', 'for', 'those', 'of', 'us', 'who', 'study', 'them']</w>
+<w>['Before', 'I', 'address', 'this', 'second', 'prompt', 'however']</w>
+<media start="3911" end="4846" unit="s"/>
+</u>
+
+<u who="Kirshenblatt-Gimblett" uID="#7">
+<w>['Many', 'thanks', 'Denise', 'for', 'this', 'post']</w>
+<w>['I', '’d', 'like', 'to', 'respond', 'to', 'a', 'few', 'points']</w>
+<w>['First', 'objects', 'and', 'their', 'display', 'as', 'a', 'defining', 'feature', 'of', 'museums']</w>
+<w>['ICOM', 'the', 'International', 'Council', 'of', 'Museums', 'issued', 'a', 'call', 'in', 'December', '2018', 'for', 'a', 'revised', 'definition', 'of', 'museums', 'to', 'better', 'reflect', 'their', 'current', 'reality.14']</w>
+<w>['No', 'doubt']</w>
+<media start="4847" end="5931" unit="s"/>
+</u>
+
+<u who="Redman" uID="#1">
+<w>['What', 'kinds', 'of', 'stories', 'should', 'museums', 'tell']</w>
+<w>['There', 'is', 'of', 'course', 'no', 'single', 'answer', 'to', 'this', 'important', 'question']</w>
+<w>['but', 'museums', 'should', 'explore', 'what', 'it', 'means', 'and', 'what', 'it', 'has', 'meant', 'historically', 'to', 'be', 'human']</w>
+<w>['They', 'should', 'also', 'help', 'us', 'understand', 'our', 'planet', 'the', 'environment', 'we', 'should', 'be', 'better', 'stewards', 'for']</w>
+<media start="5932" end="6860" unit="s"/>
+</u>
+
+<u who="Conn" uID="#5">
+<w>['The', 'creation', 'of', 'narrative', 'is', 'among', 'the', 'things', 'that', 'distinguished', 'the', 'modern', 'museum', 'from', 'the', 'cabinets', 'of', 'curiosities', 'and', 'Wunderkammern', 'that', 'preceded', 'them']</w>
+<w>['Modern', 'museums', 'imposed', 'order', 'and', 'system', 'on', 'collections', 'and', 'in', 'turn', 'they', 'collected', 'based', 'on', 'those', 'systems', 'and', 'they', 'did', 'so', 'in', 'order']</w>
+<media start="6861" end="7649" unit="s"/>
+</u>
+
+<u who="Conklin" uID="#6">
+<w>['In', 'addressing', 'the', 'questions', 'posed', 'by', 'Alex', 'Lichtenstein', 'in', 'round', 'two', 'of', 'our', 'discussions']</w>
+<w>['a', 'basic', 'difference', 'has', 'emerged', 'between', 'current', 'museum', 'practices', 'in', 'an', 'authoritarian', 'closed', 'society', 'such', 'as', 'China', 'and', 'those', 'in', 'democratic', 'and', 'open', 'ones', 'principally', 'the', 'U.S.']</w>
+<w>['The', 'dividing', 'line', 'has', 'been', 'the']</w>
+<media start="7650" end="9274" unit="s"/>
+</u>
+
+<u who="Araujo" uID="#3">
+<w>['There', 'is', 'no', 'single', 'answer', 'to', 'Alex']</w>
+<w>['’s', 'question', 'because', 'there', 'are', 'too', 'many', 'kinds', 'of', 'museums']</w>
+<w>['in', 'so', 'many', 'different', 'places', 'created', 'to', 'fulfill', 'too', 'many', 'different', 'purposes']</w>
+<w>['As', 'put', 'by', 'Steven', 'Conn', 'the', 'birth', 'of', 'the', 'modern', 'museum', 'implies', 'the', 'existence', 'of', 'a', 'collection', 'or', 'several', 'collections', 'of', 'objects', 'artifacts']</w>
+<media start="9275" end="9998" unit="s"/>
+</u>
+
+<u who="Kirshenblatt-Gimblett" uID="#7">
+<w>['Museums', 'come', 'in', 'many', 'forms', 'and', 'they', 'are', 'more', 'than', 'their', 'permanent', 'or', 'core', 'exhibition', 'and', 'temporary', 'exhibitions', 'though', 'our', 'discussion', 'so', 'far', 'seems', 'to', 'conflate', 'the', 'two', 'museum', 'and', 'exhibition']</w>
+<w>['One', 'of', 'the', 'most', 'contentious', 'aspects', 'of', 'museums', 'is', 'their', 'collections', 'whether', 'formed', 'in']</w>
+<media start="9999" end="11179" unit="s"/>
+</u>
+
+<u who="Lichtenstein" uID="#2">
+<w>['I', 'have', 'invited', 'Barbara', 'to', 'initiate', 'the', 'next', 'round', 'of', 'discussion']</w>
+<w>['Hello', 'Barbara']</w>
+<media start="11180" end="11191" unit="s"/>
+</u>
+
+<u who="Kirshenblatt-Gimblett" uID="#7">
+<w>['I', 'have', 'noticed', 'an', 'increasingly', 'strong', 'trend', 'toward', 'activism']</w>
+<w>['Consider', 'the', 'International', 'Council', 'of', 'Museums', 'initiative', 'to', 'redefine', 'museums', 'and', 'the', 'definitions', 'that', 'are', 'being', 'proposed', 'which', 'can', 'be', 'accessed', 'at', 'https://icom.museum/wp-content/uploads/2019/01/MDPP-report-and-recommendations-']</w>
+<media start="11192" end="11292" unit="s"/>
+</u>
+
+<u who="Ho" uID="#4">
+<w>['Throughout', 'this', 'conversation', 'I', 'have', 'been', 'struck', 'by', 'the', 'interplay', 'among', 'museum', 'history', 'contemporary', 'museum', 'practice', 'and', 'prescriptions', 'for', 'the', 'future']</w>
+<w>['This', 'is', 'evident', 'in', 'the', 'two', 'past', 'questions', 'how', 'might', 'one', 'rethink', 'museum', 'practice', 'in', 'light', 'of', 'its', 'history', 'and', 'what', 'kinds', 'of']</w>
+<media start="11293" end="11939" unit="s"/>
+</u>
+
+<u who="Kirshenblatt-Gimblett" uID="#7">
+<w>['Many', 'thanks', 'Denise']</w>
+<w>['This', 'is', 'just', 'what', 'was', 'on', 'my', 'mind', 'thinking', 'now', 'of', 'museums', 'in', 'Poland', 'where', 'under', 'the', 'current', 'right', 'wing', 'government', 'they', 'are', 'instruments', 'of', 'historical', 'policy', 'intended', 'to', 'shape', 'civic', 'and', 'patriotic', 'attitudes', 'and', 'defend', 'Poland', '’s', 'reputation']</w>
+<w>['And', 'not', 'only', 'museums', 'but', 'also', 'mass']</w>
+<media start="11940" end="13370" unit="s"/>
+</u>
+
+<u who="Lichtenstein" uID="#2">
+<w>['Not', 'to', 'add', 'too', 'much', 'fuel', 'to', 'the', 'fire', 'here']</w>
+<w>['but', 'does', 'n’t', 'the', 'call', 'to', 'blunt', 'museum', 'activism', 'run', 'the', 'danger', 'of', 'restoring', 'the', 'false', 'idea', 'that', 'the', 'museum', 'can', 'serve', 'as', 'a', 'neutral', 'apolitical', 'repository', 'of', 'history', 'culture', 'heritage', 'and', 'national', 'identity']</w>
+<w>['Is', 'n’t', 'that', 'conceit', 'the', 'very', 'reason', 'that', 'scholars', 'in', 'a']</w>
+<media start="13371" end="13455" unit="s"/>
+</u>
+
+<u who="Conklin" uID="#6">
+<w>['I', 'disagree', 'with', 'Steve']</w>
+<w>['Although', 'I', 'know', 'a', 'lot', 'less', 'about', 'contemporary', 'museum', 'practices', 'than', 'he', 'does', 'I', 'would', 'argue', 'that', 'museums', 'can', 'and', 'should', 'be', 'activists', 'but', 'activism', 'like', 'museums', 'can', 'take', 'many', 'forms']</w>
+<w>['Decolonizing', 'the', 'European', 'ethnographic', 'and', 'natural', 'history', 'museum', 'either', 'through']</w>
+<media start="13456" end="13934" unit="s"/>
+</u>
+
+<u who="Redman" uID="#1">
+<w>['This', 'conversation', 'is', 'important', 'and', 'I', 'am', 'glad', 'we', 'are', 'having', 'it']</w>
+<w>['An', 'undercurrent', 'in', 'this', 'discussion', 'is', 'the', 'assumption', 'that', 'museums', 'were', 'or', 'at', 'least', 'aspired', 'to', 'be', 'more', 'neutral', 'or', 'objective', 'in', 'their', 'orientation', 'at', 'one', 'point', 'in', 'time', 'and', 'became', 'or', 'are', 'becoming', 'more', 'subjective', 'or', 'activist', 'in', 'their']</w>
+<media start="13935" end="14439" unit="s"/>
+</u>
+
+<u who="Kirshenblatt-Gimblett" uID="#7">
+<w>['Yes', 'that', 'is', 'true', 'but', 'museum', 'activism', 'today', 'is', 'being', 'understood', 'in', 'different', 'terms']</w>
+<w>['namely', 'as', 'activism', 'in', 'relation', 'to', 'the', 'challenges', 'of', 'contemporary', 'society', 'homelessness', 'hunger', 'inequality', 'exclusions', 'immigration', 'refugees', 'and', 'much', 'else']</w>
+<w>['On', 'the', 'one', 'hand', 'how', 'can', 'one', 'argue', 'with', 'the']</w>
+<media start="14440" end="14686" unit="s"/>
+</u>
+
+<u who="Araujo" uID="#3">
+<w>['ICOM', '’s', 'initiative', 'can', 'be', 'understood', 'in', 'the', 'context', 'of', 'the', 'growing', 'sentiment', 'of', 'uneasiness']</w>
+<w>['stemming', 'from', 'current', 'debates', 'around', 'the', 'history', 'of', 'the', 'so', 'called', 'mainstream', 'museums', 'many', 'of', 'which', 'are', 'either', 'in', 'Europe', 'or', 'North', 'America', 'especially', 'regarding', 'how', 'their', 'collections', 'were', 'built']</w>
+<w>['Although', 'I']</w>
+<media start="14687" end="15199" unit="s"/>
+</u>
+
+<u who="Lichtenstein" uID="#2">
+<w>['In', 'closing', 'I', 'would', 'like', 'each', 'of', 'you', 'to', 'speak', 'briefly', 'about', 'how', 'your', 'approach', 'to', 'museums', 'shapes', 'your', 'pedagogy']</w>
+<w>['How', 'do', 'you', 'use', 'museums', 'in', 'your', 'teaching']</w>
+<w>['How', 'do', 'you', 'simultaneously', 'permit', 'museums', 'to', 'provoke', 'joy', 'and', 'wonder', 'in', 'your', 'students', 'even', 'while', 'helping', 'them', 'to', 'remain', 'critical', 'of']</w>
+<media start="15200" end="15254" unit="s"/>
+</u>
+
+<u who="Ho" uID="#4">
+<w>['Museums', 'present', 'a', 'dual', 'opportunity', 'on', 'the', 'one', 'hand', 'exhibits', 'can', 'make', 'history', 'personal', 'and', 'tangible']</w>
+<w>['on', 'the', 'other', 'hand', 'the', 'objects', 'on', 'display', 'are', 'almost', 'always', 'part', 'of', 'a', 'larger', 'narrative', 'that', 'invites', 'analysis', 'as', 'such']</w>
+<w>['Because', 'my', 'current', 'teaching', 'is', 'in', 'the', 'United', 'States', 'one', 'of', 'my', 'challenges', 'is']</w>
+<media start="15255" end="15814" unit="s"/>
+</u>
+
+<u who="Conn" uID="#5">
+<w>['This', 'is', 'a', 'great', 'and', 'for', 'me', 'somewhat', 'embarrassing', 'question']</w>
+<w>['Given', 'my', 'regular', 'rotation', 'of', 'classes', 'I', 'do', 'n’t', 'have', 'occasion', 'to', 'engage', 'with', 'museums', 'much', 'in', 'the', 'classroom', 'and', 'certainly', 'not', 'with', 'the', 'issues', 'we', '’ve', 'been', 'discussing', 'here']</w>
+<w>['By', 'and', 'large', 'when', 'I', 'do', 'get', 'the', 'chance', 'I', 'introduce', 'students', 'to', 'the']</w>
+<media start="15815" end="16049" unit="s"/>
+</u>
+
+<u who="Kirshenblatt-Gimblett" uID="#7">
+<w>['At', 'this', 'very', 'moment', 'I', 'am', 'co', 'teaching', 'an', 'undergraduate', 'summer', 'seminar', 'with', 'the', 'sociologist', 'Mitchell', 'Duneier', 'for', 'the', 'Princeton', 'Institute', 'for', 'International', 'and', 'Regional', 'Studies']</w>
+<w>['We', 'are', 'in', 'residence', 'at', 'POLIN', 'Museum', 'of', 'the', 'History', 'of', 'Polish', 'Jews', 'in', 'Warsaw', 'and', 'are', 'using', 'the', 'core']</w>
+<media start="16050" end="16231" unit="s"/>
+</u>
+
+<u who="Redman" uID="#1">
+<w>['Museums', 'for', 'all', 'the', 'many', 'problems', 'they', 'pose', 'serve', 'as', 'uniquely', 'valuable', 'tools', 'in', 'my', 'teaching']</w>
+<w>['In', 'my', 'seminars', 'dealing', 'with', 'museums', 'we', 'begin', 'by', 'engaging', 'with', 'critical', 'readings', 'about', 'institutions', 'and', 'discuss', 'their', 'histories', 'and', 'current', 'problems']</w>
+<w>['Then', 'as', 'often', 'as', 'possible', 'we', 'visit', 'these', 'places', 'on']</w>
+<media start="16232" end="16780" unit="s"/>
+</u>
+
+<u who="Araujo" uID="#3">
+<w>['Because', 'I', 'live', 'and', 'work', 'in', 'the', 'Washington', 'D.C.', 'area', 'museums', 'and', 'museum', 'exhibitions', 'especially', 'at', 'the', 'Smithsonian', 'have', 'shaped', 'my', 'pedagogy']</w>
+<w>['In', 'my', 'undergraduate', 'courses', 'in', 'Colonial', 'Latin', 'America', 'at', 'Howard', 'University', 'students', 'have', 'visited', 'and', 'reviewed', 'the', 'exhibition']</w>
+<w>['The', 'Great', 'Inka']</w>
+<media start="16781" end="17450" unit="s"/>
+</u>
+
+<u who="Conklin" uID="#6">
+<w>['I', 'have', 'never', 'taught', 'museum', 'centered', 'courses', 'in', 'part', 'because', 'the', 'museums', 'I', 'study', 'have', 'been', 'so', 'far', 'away']</w>
+<w>['Instead', 'in', 'my', 'European', 'history', 'courses', 'I', 'have', 'tended', 'to', 'use', 'images', 'from', 'natural', 'history', 'museum', 'displays', 'to', 'demonstrate', 'how', 'racial', 'hierarchies', 'were', 'constructed', 'visually', 'as', 'part', 'of', 'good']</w>
+<media start="17451" end="17874" unit="s"/>
+</u>
+
+<u who="Lichtenstein" uID="#2">
+<w>['I', 'want', 'to', 'thank', 'all', 'of', 'you', 'for', 'your', 'thoughtful', 'engagement', 'with', 'a', 'complex', 'set', 'of', 'ideas', 'and', 'practices', 'around', 'the', 'ever', 'shifting', 'politics', 'of', 'curation', 'and', 'display']</w>
+<w>['I', 'think', 'we', 'all', 'agree', 'that', 'museums', 'constitute', 'a', 'crucial', 'form', 'of', 'popular', 'historical', 'narrative', 'that', 'historians', 'should', 'pay', 'close', 'attention', 'to']</w>
+<w>['At', 'the', 'very']</w>
+<media start="17875" end="17960" unit="s"/>
+</u>
+
+</CHAT>
+
